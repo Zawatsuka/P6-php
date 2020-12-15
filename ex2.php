@@ -4,4 +4,4 @@ c'est le cas l'afficher sinon le signaler : index.php?lastname=Nemare&firstname=
     echo "vous avez " . $_GET["age"] . " ans";
 }else {
     echo " Mais vous n'avez pas d'age ou quoi ?";
-}
+}?>
